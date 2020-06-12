@@ -17,7 +17,7 @@
   <div class="inner">
       <h3 class="masthead-brand"><img src="images/ed.png" alt=""></h3>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link" href="index.php">Accueil</a>
+        <a class="nav-link " href="index.php">Accueil</a>
         <a class="nav-link" href="liste_commandes.php">List</a>
         <a class="nav-link" href="create_customer.php">Client</a>
         <a class="nav-link" href="createo.php">Commande</a>
